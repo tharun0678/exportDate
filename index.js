@@ -5,4 +5,6 @@ function numberOfDaysToAdd(days) {
   return result;
 }
 
+console.log(numberOfDaysToAdd(5));
+
 module.exports = numberOfDaysToAdd;
